@@ -1,5 +1,5 @@
 # Prediksi Penyakit Kucing
-Aplikasi ini adalah aplikasi yang dapat digunakan untuk memprediksi penyakit kucing. Aplikasi ini dibuat menggunakan bahasa pemrograman Python dan menggunakan metode K-Nearest Neighbors (KNN) untuk memprediksi penyakit kucing. 
+Aplikasi ini adalah aplikasi yang dapat digunakan untuk memprediksi penyakit kucing. Aplikasi ini dibuat menggunakan bahasa pemrograman Python dan menggunakan algoritma Data Minig yaitu K-Nearest Neighbors (KNN) untuk memprediksi penyakit kucing. 
 
 ## Requirements
 - Python 3.6
